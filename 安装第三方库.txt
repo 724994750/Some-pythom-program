@@ -1,0 +1,1 @@
+直接在命令行里输入 pip install -i https://pypi.tuna.tsinghua.edu.cn/simple some-package
